@@ -1,6 +1,6 @@
 /* Change this file to get your personal Porfolio */
 
-import { ThemeConsumer } from "styled-components";
+
 
 // Website related settings
 const settings = {
